@@ -21,6 +21,7 @@ Ultimately, customer segmentation enables the subscription service to align its 
 and building a more loyal customer base**
 
 ## PROBLEM STATEMENT
+
 **As subscription-based services continue to grow, effectively managing and retaining a diverse customer base has become a significant challenge.
 For a subscription service offering tiered plans — Basic, Standard, and Premium — understanding the unique characteristics, preferences, and 
 behaviors of each customer segment is critical for driving engagement, reducing churn, and optimizing revenue. However, the lack of detailed
@@ -32,14 +33,14 @@ resource allocation and missed opportunities for personalized marketing and upse
 •	**Identifying Distinct Customer Segments: What are the key characteristics that differentiate customers in each subscription tier (Basic, Standard, Premium),
 and how do they vary in terms of demographics, usage patterns, and preferences?**
 
-•	** Understanding Behavioral Drivers: What behavioral factors (e.g., frequency of use, average session duration, customer support interactions) influence a customer’s
+•	**Understanding Behavioral Drivers: What behavioral factors (e.g., frequency of use, average session duration, customer support interactions) influence a customer’s
 likelihood to upgrade, downgrade, or churn? How do these factors vary across subscription tiers?**
 
 
 •	**Predicting Subscription Tier Changes and Churn: Can we predict which customers are likely to switch tiers or discontinue their subscriptions?
 What indicators can help identify at-risk customers within each segment?**
 
-•	** Optimizing Marketing and Retention Strategies: How can the insights from customer segmentation be used to inform more targeted marketing 
+•	**Optimizing Marketing and Retention Strategies: How can the insights from customer segmentation be used to inform more targeted marketing 
 strategies, personalized offers, and retention initiatives that cater to each customer group?**
 
 •	**The goal of this analysis is to develop a comprehensive customer segmentation model that categorizes customers based on relevant factors
@@ -49,7 +50,7 @@ increase retention, and maximize revenue, ultimately achieving a more sustainabl
 ## PRIMARY OBJECTIVES
 
 
-*&This customer segmentation analysis for a subscription service with Basic, Standard, and Premium plans aims to achieve the following primary objectives:**
+**This customer segmentation analysis for a subscription service with Basic, Standard, and Premium plans aims to achieve the following primary objectives:**
 
 1. #### Identify Distinct Customer Segments ####
 
@@ -60,15 +61,16 @@ and Premium users.**
 
 2. #### Determine Key Behavioral Drivers ####
 
-Identify and analyze key behavioral factors (e.g., frequency of use, session duration, engagement patterns) that influence customer choices within and across subscription tiers.
+**Identify and analyze key behavioral factors (e.g., frequency of use, session duration, engagement patterns) that influence customer choices within 
+and across subscription tiers.**
 
-Understand which behaviors are associated with higher customer satisfaction, loyalty, or potential for upgrading/downgrading.
+**Understand which behaviors are associated with higher customer satisfaction, loyalty, or potential for upgrading/downgrading.**
 
 3. ##### Predict Subscription Changes and Churn ####
 
-Develop predictive models to identify customers likely to upgrade, downgrade, or churn based on historical data.
+**Develop predictive models to identify customers likely to upgrade, downgrade, or churn based on historical data.**
 
-Determine the most significant predictors of churn and switching behavior for proactive retention efforts.
+**Determine the most significant predictors of churn and switching behavior for proactive retention efforts.**
 
 4. #### Optimize Marketing and Retention Strategies ####
 
