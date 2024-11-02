@@ -92,3 +92,55 @@ and across subscription tiers.**
 
 **By achieving these objectives, the project aims to provide actionable insights that enable the subscription service to drive customer-centric growth, improve retention rates, and maximize the lifetime value of each segment.**
 
+## DATA MANIPULATION
+1. *DATA CLEANSING
+    - **All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
+    - **Handle missing values (Find & Select > Go To Special > Blanks)**
+    - **Remove unnecessary characters (Text to Columns, Flash Fill)**
+2.  **Data standarization** :
+    - Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)
+    - Standardize date formats (Text to Date, DATE function)
+    - Normalize numeric values (ROUND, TRUNC)
+3. *Data Transformation:
+. 
+    - Pivot data (PivotTables)
+    - Transpose data (Paste Special > Transpose)
+    - Group data (Group By)
+    - Aggregate data (SUM, AVERAGE, COUNT)
+    - 
+4. **Data Splitting:**
+    - Split columns (Text to Columns)
+    - Split rows (Filter, Group By)
+
+5.**Microsoft Excel Functions**:
+
+`~ **Date functions: DATE, DATEDIF, EOMONTH** 
+
+~ **Logical functions: IF, IFERROR, IFBLANK**
+
+* **Power Query**:
+
+1. **Import data (From File, From Database)**
+2. **Transform data (Group By, Pivot, Merge)**
+3. **Load data (Load To, Load To Worksheet)**
+
+## TOOLS USED ##
+
+**Microsoft excel and Power bi :Used for analysis, data segmentation, visualization, 
+data modelling and create interative dashboarding
+
+## ANALYSIS QUESTION ##
+
+•	**Calculate the average subscription duration** 
+•	**Identify the most popular  subscription type**
+
+ *  **Write queries to extract key insights based on the following questions**.
+   *  **Retrieve the total number of customers from each region.**    
+  * **Find the most popular subscription type by the number of customers.** 
+*  **Find Customers who canceled their subscription within 6 months.** 
+* **Calculate the average subscription duration for all customers. **
+* **Find customers with subscriptions longer than 12 mOnths**
+* **Calculate total revenue by subscription type.**
+* **Find the top 3 regions by subscription cancellations.**
+* **Find the total number of active and canceled subscriptions.** 
+
