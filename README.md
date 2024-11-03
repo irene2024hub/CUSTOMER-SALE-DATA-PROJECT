@@ -93,39 +93,55 @@ and across subscription tiers.**
 **By achieving these objectives, the project aims to provide actionable insights that enable the subscription service to drive customer-centric growth, improve retention rates, and maximize the lifetime value of each segment.**
 
 ## DATA MANIPULATION
-1. *DATA CLEANSING
-    - **All duplicated data were removed using Data validation method.Remove duplicates (Data > Data Validation > Remove Duplicates)
-    - **Handle missing values (Find & Select > Go To Special > Blanks)**
-    - **Remove unnecessary characters (Text to Columns, Flash Fill)**
-2.  **Data standarization** :
-    - Convert text to uppercase/lowercase (FORMULATEXT, LOWER/UPPER)
-    - Standardize date formats (Text to Date, DATE function)
-    - Normalize numeric values (ROUND, TRUNC)
-3. *Data Transformation:
-. 
-    - Pivot data (PivotTables)
-    - Transpose data (Paste Special > Transpose)
-    - Group data (Group By)
-    - Aggregate data (SUM, AVERAGE, COUNT)
-    - 
-4. **Data Splitting:**
-    - Split columns (Text to Columns)
-    - Split rows (Filter, Group By)
+ The methodology comprises the following key steps:
 
-5.**Microsoft Excel Functions**:
+~. **Data Collection**
 
-`~ **Date functions: DATE, DATEDIF, EOMONTH** 
+~Gather Data: **Collect relevant data from various sources, including customer demographics (age, gender, location), subscription details 
+(subscription type, start date, payment history), and behavioral data (usage frequency, average session duration, churn history).**
 
-~ **Logical functions: IF, IFERROR, IFBLANK**
+~ Data Sources: **The dataset used in this analysis was received from an internal
+Data Sources from:**
 
-* **Power Query**:
+1. **Customer Relationship Management (CRM) software**
+2.** Subscription management platform **
+3.**  Billing and invoicing systems**
+4. **Customer database**
+5. ** Sales and marketing automation tools**
+   
 
-1. **Import data (From File, From Database)**
-2. **Transform data (Group By, Pivot, Merge)**
-3. **Load data (Load To, Load To Worksheet)**
 
-## TOOLS USED ##
+~ **Data Preparation**
 
+**Data Cleaning: Perform data cleaning to handle missing values, duplicates, and outliers. Ensure data accuracy and consistency across the dataset.**
+
+**Data Transformation: Convert categorical variables into numerical format if necessary, and normalize continuous variables to prepare for analysis.**
+
+~ **Visualizations: Create visualizations (histograms, bar charts, box plots) to identify patterns and distributions in the data, focusing on key 
+attributes like subscription type, usage patterns, and churn rates.**
+
+
+~. **Segmentation Analysis**
+
+Feature Selection: Identify relevant features for segmentation based on the EDA results, such as demographics, usage behavior, and subscription history.
+
+~ **Clustering Techniques: Apply clustering algorithms (e.g., k-means, hierarchical clustering) to segment customers into distinct groups based on selected features.
+Determine the optimal number of clusters using methods like the elbow method or silhouette score.**
+
+~ **Cluster Profiling: Analyze the resulting clusters to understand their characteristics, motivations, and behaviors. Develop profiles for each segment 
+(e.g., price-sensitive users, high-engagement users).**
+
+
+~. **Predictive Modeling**
+
+**Churn Prediction: Build predictive models (e.g., logistic regression, decision trees) to identify customers at risk of churning based on their cluster 
+membership and historical behaviors.**
+
+~ **Upgrade/Downgrade Prediction: Use similar modeling techniques to predict customers' likelihood of upgrading or downgrading their subscriptions.**
+
+~. Validation and Refinement
+
+** Model Evaluation: Validate the segmentation and predictive models using appropriate metrics (e.g., accuracy, precision, recall) on a holdout dataset.**
 **Microsoft excel and Power bi :Used for analysis, data segmentation, visualization, 
 data modelling and create interative dashboarding
 
@@ -142,5 +158,8 @@ data modelling and create interative dashboarding
 * **Find customers with subscriptions longer than 12 mOnths**
 * **Calculate total revenue by subscription type.**
 * **Find the top 3 regions by subscription cancellations.**
-* **Find the total number of active and canceled subscriptions.** 
+* **Find the total number of active and canceled subscriptions.**
 
+  ## APPROACH ##
+This project adopts a systematic data analysis approach to segment customers of a subscription service offering Basic, 
+Standard, and Premium plans.
