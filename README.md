@@ -166,11 +166,14 @@ Standard, and Premium plans.
 
 
 
-![image](https://github.com/user-attachments/assets/90482a47-2933-4777-a19c-1f099f6a262b)
+![image](https://github.com/user-attachments/assets/e818e9d9-d2c2-479f-bfdb-4ca4e78d8aab)
+
 
 ![image](https://github.com/user-attachments/assets/eec5c898-c09c-4696-953b-c94145fb9597)
 
 ![image](https://github.com/user-attachments/assets/e97f860d-9919-4f89-aa01-8d6731c360f0)
+
+![image](https://github.com/user-attachments/assets/90482a47-2933-4777-a19c-1f099f6a262b)
 
 ![image](https://github.com/user-attachments/assets/45cf5b49-4f09-440b-99ab-469bd8652a70)
 
