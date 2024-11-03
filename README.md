@@ -163,3 +163,28 @@ data modelling and create interative dashboarding
   ## APPROACH ##
 This project adopts a systematic data analysis approach to segment customers of a subscription service offering Basic, 
 Standard, and Premium plans.
+
+
+
+![image](https://github.com/user-attachments/assets/90482a47-2933-4777-a19c-1f099f6a262b)
+
+![image](https://github.com/user-attachments/assets/eec5c898-c09c-4696-953b-c94145fb9597)
+
+![image](https://github.com/user-attachments/assets/e97f860d-9919-4f89-aa01-8d6731c360f0)
+
+![image](https://github.com/user-attachments/assets/45cf5b49-4f09-440b-99ab-469bd8652a70)
+
+![image](https://github.com/user-attachments/assets/ca848c83-5c22-426c-971a-12243576cffb)
+
+![image](https://github.com/user-attachments/assets/c94e3878-988d-4b9d-b1fc-4030bc54c308)
+
+![image](https://github.com/user-attachments/assets/41ec7cc1-6e47-47f8-8a80-aa85d94d0494)
+
+![image](https://github.com/user-attachments/assets/d9bae11e-a05e-40bc-a823-edb83eee8e46)
+
+![image](https://github.com/user-attachments/assets/ccb3eac5-c0b5-497d-947e-a3ff8fed0f0e)
+
+![image](https://github.com/user-attachments/assets/11c0ca0b-52e6-491c-8029-a1d294181625)
+
+![image](https://github.com/user-attachments/assets/4ad5089b-62d7-421c-9e95-f9ef9e1b0e0f)
+
