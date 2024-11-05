@@ -199,7 +199,7 @@ Standard, and Premium plans.
 ![image](https://github.com/user-attachments/assets/3107b7b7-6f7d-43f0-b665-3f6d5760a27b)
 
 
-## Quality of Dateset checked
+## Quality of Dataset checked
 
 ![image](https://github.com/user-attachments/assets/71a72f07-c462-46ee-ba0e-285fa0c7c3d7)
 
