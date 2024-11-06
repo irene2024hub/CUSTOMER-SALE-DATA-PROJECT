@@ -200,9 +200,6 @@ Standard, and Premium plans.
 
 ![image](https://github.com/user-attachments/assets/f06312f4-2062-44c3-bbe9-5f3857b1173c)
 
-![image](https://github.com/user-attachments/assets/bdb6bb0c-4869-461f-ae12-7c872ef44304)
-
-
 ## Quality of Dataset checked
 
 ![image](https://github.com/user-attachments/assets/71a72f07-c462-46ee-ba0e-285fa0c7c3d7)
