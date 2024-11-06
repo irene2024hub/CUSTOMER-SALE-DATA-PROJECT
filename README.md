@@ -194,9 +194,13 @@ Standard, and Premium plans.
 
 ![image](https://github.com/user-attachments/assets/4ad5089b-62d7-421c-9e95-f9ef9e1b0e0f)
 
-## Dataset imported from SQL SERVER to Power BI 
+## Dataset importation process  from SQL SERVER to Power BI 
 
-![image](https://github.com/user-attachments/assets/3107b7b7-6f7d-43f0-b665-3f6d5760a27b)
+![image](https://github.com/user-attachments/assets/fe2b6814-5778-4221-96ee-c5fda2e69c6b)
+
+![image](https://github.com/user-attachments/assets/f06312f4-2062-44c3-bbe9-5f3857b1173c)
+
+![image](https://github.com/user-attachments/assets/bdb6bb0c-4869-461f-ae12-7c872ef44304)
 
 
 ## Quality of Dataset checked
