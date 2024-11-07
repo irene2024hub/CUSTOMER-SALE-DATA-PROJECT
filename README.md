@@ -219,35 +219,44 @@ Standard, and Premium plans.
 
               # GENERAL DASHBOARD
               
-![image](https://github.com/user-attachments/assets/1981016e-4f28-4b4e-8902-b4a01ccd637d)
+![image](https://github.com/user-attachments/assets/4211d7fc-3389-47cc-9936-0bd1c9c4d1f8)
 
         
 
  ## SUBSCRIPTION PATTERN WITH THE HIGHEST TOTAL REVENUE (BASIC)
 
-![image](https://github.com/user-attachments/assets/04bb0e03-2388-40af-ae76-0d9b1b816c69)
+![image](https://github.com/user-attachments/assets/365c4067-9e4c-4e2c-a207-b40ab65561e6)
 
 
 ## SUBSCRIPTION PATTERN WITH THE LOWEST TOTAL REVENUE (STANDARD)
 
-![image](https://github.com/user-attachments/assets/6cca3a47-c1e8-43e4-b12c-c9e648f10bb3)
-
-## TOTAL CANCELATION STATUS FOR THE YEAR
-
-![image](https://github.com/user-attachments/assets/c61a6ef3-04dd-4c6c-9c4b-79da6e6228eb)
-
-REGION WITH THE HIGHEST DALES REVENUE ( EAST)
+![image](https://github.com/user-attachments/assets/0c2f010c-9f00-45a7-a5dd-0764790c9357)
 
 
-![image](https://github.com/user-attachments/assets/102ca8b2-d339-4f19-85f0-6413ec56eec3)
+## OVERVIEW OF TOTAL NUMBER OF CANCELATION STATUS FOR THE YEAR
+
+![image](https://github.com/user-attachments/assets/80634898-c6df-4a4f-b02b-5642d88de174)
 
 
+# OVERVIEW OF TOTAL NUMBER OF ACTIVE SUBSCRIBERS FOR THE YEAR
 
-    MONTHLY  AND QUARTLY SALES DASHBOARD
-
-    ![image](https://github.com/user-attachments/assets/8117bfd9-dafe-4c53-9a13-6f52f585e779)
+![image](https://github.com/user-attachments/assets/9c4a1def-b4c6-46dd-a81c-f16be9afd8d1)
 
 
-![image](https://github.com/user-attachments/assets/a40c1cdc-cf12-4a4f-8d23-fb2fe7187a41)
+## REGION WITH THE HIGHEST SALES REVENUE ( EAST)
 
+![image](https://github.com/user-attachments/assets/d8cd1d05-ea24-4025-8159-d2e52777ec5a)
+
+
+##   MONTHLY  AND QUARTLY SALES DASHBOARD
+
+ ![image](https://github.com/user-attachments/assets/6ab6a42b-9c96-492a-b705-f965c06d5a50)
+   
+## 1ST QUARTER RECORED THE HIGHEST SALES REVENUE
+
+![image](https://github.com/user-attachments/assets/45f2e234-8f85-4568-a716-c5f314cb2b30)
+
+## 4TH QUARTHER RECORDED LOWEST TOTAL SALES REVENUE
+
+![image](https://github.com/user-attachments/assets/d772803d-7cfb-416c-9fb1-ac33e8430733)
 
