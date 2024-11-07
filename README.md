@@ -1,7 +1,7 @@
 # NETFLIX NIGERIA CUSTOMER SEGMENTATION SALES PERFORMANCE 
 
 ## ABSTRACT
-Abstract
+
 **This project focuses on customer segmentation for a subscription-based service that offers three subscription types: Basic, Standard, and Premium. 
 By segmenting customers based on their subscription choices, usage patterns, demographics, and other key behavioral factors,
 this analysis aims to deliver actionable insights that can enhance customer engagement, retention, and profitability.**
