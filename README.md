@@ -204,3 +204,43 @@ Standard, and Premium plans.
 
 ![image](https://github.com/user-attachments/assets/71a72f07-c462-46ee-ba0e-285fa0c7c3d7)
 
+## CONDITIONAL COLUMNS AND MEASURE WERE CREATED TO BUILD  MORE INSIGHTFUL REPORT 
+
+![image](https://github.com/user-attachments/assets/0ffe3391-34d4-486a-87ab-0a3287005119)
+
+![image](https://github.com/user-attachments/assets/1cdfbf54-ca2a-4f46-970d-66c15b39bb02)
+
+              # GENERAL DASHBOARD
+              
+![image](https://github.com/user-attachments/assets/1981016e-4f28-4b4e-8902-b4a01ccd637d)
+
+        
+
+ ## SUBSCRIPTION PATTERN WITH THE HIGHEST TOTAL REVENUE (BASIC)
+
+![image](https://github.com/user-attachments/assets/04bb0e03-2388-40af-ae76-0d9b1b816c69)
+
+
+## SUBSCRIPTION PATTERN WITH THE LOWEST TOTAL REVENUE (STANDARD)
+
+![image](https://github.com/user-attachments/assets/6cca3a47-c1e8-43e4-b12c-c9e648f10bb3)
+
+## TOTAL CANCELATION STATUS FOR THE YEAR
+
+![image](https://github.com/user-attachments/assets/c61a6ef3-04dd-4c6c-9c4b-79da6e6228eb)
+
+REGION WITH THE HIGHEST DALES REVENUE ( EAST)
+
+
+![image](https://github.com/user-attachments/assets/102ca8b2-d339-4f19-85f0-6413ec56eec3)
+
+
+
+    MONTHLY  AND QUARTLY SALES DASHBOARD
+
+    ![image](https://github.com/user-attachments/assets/8117bfd9-dafe-4c53-9a13-6f52f585e779)
+
+
+![image](https://github.com/user-attachments/assets/a40c1cdc-cf12-4a4f-8d23-fb2fe7187a41)
+
+
