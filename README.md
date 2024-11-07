@@ -97,17 +97,17 @@ and across subscription tiers.**
 
 ~. **Data Collection**
 
-~Gather Data: **Collect relevant data from various sources, including customer demographics (age, gender, location), subscription details 
+~  **Gather Data**: **Collect relevant data from various sources, including customer demographics (age, gender, location), subscription details 
 (subscription type, start date, payment history), and behavioral data (usage frequency, average session duration, churn history).**
 
-~ Data Sources: **The dataset used in this analysis was received from an internal
+~ **Data Sources**: **The dataset used in this analysis was received from an internal
 Data Sources from:**
 
 1. **Customer Relationship Management (CRM) software**
-2.** Subscription management platform **
+2. **Subscription management platform **
 3.**  Billing and invoicing systems**
 4. **Customer database**
-5. ** Sales and marketing automation tools**
+5. **Sales and marketing automation tools**
    
 
 
@@ -117,19 +117,17 @@ Data Sources from:**
 
 **Data Transformation: Convert categorical variables into numerical format if necessary, and normalize continuous variables to prepare for analysis.**
 
-~ **Visualizations: Create visualizations (histograms, bar charts, box plots) to identify patterns and distributions in the data, focusing on key 
+~ **Visualizations: Create visualizations (bar charts, Slicers, pivot table chart) to identify patterns and distributions in the data, focusing on key 
 attributes like subscription type, usage patterns, and churn rates.**
 
 
 ~. **Segmentation Analysis**
 
-Feature Selection: Identify relevant features for segmentation based on the EDA results, such as demographics, usage behavior, and subscription history.
+~ **Feature Selection**: **Identify relevant features for segmentation based on the EDA results, such as demographics, usage behavior, and subscription history**.
 
-~ **Clustering Techniques: Apply clustering algorithms (e.g., k-means, hierarchical clustering) to segment customers into distinct groups based on selected features.
-Determine the optimal number of clusters using methods like the elbow method or silhouette score.**
 
 ~ **Cluster Profiling: Analyze the resulting clusters to understand their characteristics, motivations, and behaviors. Develop profiles for each segment 
-(e.g., price-sensitive users, high-engagement users).**
+(e.g., price-sensitive users, high-engagement users).** Also determine total number of  distinct  customer across the regions**
 
 
 ~. **Predictive Modeling**
@@ -142,8 +140,9 @@ membership and historical behaviors.**
 ~. **Validation and Refinement**
 
 **Model Evaluation: Validate the segmentation and predictive models using appropriate metrics (e.g., accuracy, precision, recall) on a holdout dataset.**
-**Microsoft excel and Power bi :Used for analysis, data segmentation, visualization,** 
-data modelling and create interative dashboarding
+
+
+
 
 ## ANALYSIS QUESTION ##
 
@@ -160,16 +159,20 @@ data modelling and create interative dashboarding
 * **Find the top 3 regions by subscription cancellations.**
 * **Find the total number of active and canceled subscriptions.**
 
+
+
   ## APPROACH ##
-This project adopts a systematic data analysis approach to segment customers of a subscription service offering Basic, 
-Standard, and Premium plans.
+  
+  ### ANALYSIS TOOLS USED;
 
+**Analysis tools Usedfor r analysis, data segmentation, visualization,** 
+data modelling and create interative dashboarding** are:
 
-## Data Analysis Tools:
+* **MICROSOFT EXCEL
+* ** SQL SERVER
+*  **POWER BI  DESKTOP
+  
 
- * **Microsoft Excel
- *  **SQL SERVER
- *  **POWER PI DESKTOP
  *  
 ### MICROSOFT EXCEL PIVOT TABLES SUMMARY REPORT ###
 
@@ -217,7 +220,7 @@ Standard, and Premium plans.
 
 ![image](https://github.com/user-attachments/assets/1cdfbf54-ca2a-4f46-970d-66c15b39bb02)
 
-              # GENERAL DASHBOARD
+              ## GENERAL DASHBOARD
               
 ![image](https://github.com/user-attachments/assets/4211d7fc-3389-47cc-9936-0bd1c9c4d1f8)
 
