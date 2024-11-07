@@ -170,7 +170,16 @@ membership and historical behaviors.**
 
 **Analysis tools Usedfor r analysis, data segmentation, visualization,** 
 data modelling and create interative dashboarding** are:
+## Data Analysis Tools:
 
+
+ * **Microsoft Excel: used for data cleaning, report summarization and**
+   
+ visualization. Microsoft Excel [Download here](https://wwww.Microsoft.com).
+
+ *  **Microsoft Sql ServerSMSS0 [Download here](https://wwww.Microsoft.com).
+    
+ *  **POWER PI DESKTOP  [Download here](https://wwww.Microsoft.com
 * **MICROSOFT EXCEL**
 * **SQL SERVER**
 *  **POWER BI  DESKTOP**
