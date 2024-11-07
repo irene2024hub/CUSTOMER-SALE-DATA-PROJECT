@@ -2,7 +2,7 @@
 
 ## ABSTRACT
 
-**Using Netflix Nigeria LTD as case study.**This project focuses on customer segmentation for a subscription-based service that offers three** 
+   **Using Netflix Nigeria LTD as case study.This project focuses on customer segmentation for a subscription-based service that offers three** 
 **subscription types: Basic, Standard, and Premium.** 
 **By segmenting customers based on their subscription choice, , usage patterns, demographics, and other key behavioral factors,**
 **this analysis aims to deliver actionable insights that can enhance customer engagement, retention, and profitability.**
@@ -345,7 +345,18 @@ cultural nuances. Customized marketing can help strengthen brand loyalty and eng
 
 6.**IMPLEMENT PREDICTIVE ANALYTICS FOR EARLY CHURN DETECTION**
 
-  ** se predictive analytics to identify cust**…
+**Use predictive analytics to identify customers at high risk of churning, especially those on the Basic plan. Offer proactive incentives or content
+recommendations to keep them engaged and address potential churn drivers before they cancel**.
 
+
+
+  ## CONCLUSION
+     
+**This customer segmentation analysis highlights the need for a balanced approach that enhances value perception, addresses churn, and tailors marketing 
+efforts. By strategically focusing on both retention and upselling, the service can strengthen customer loyalty, reduce churn, and optimize revenue across 
+the Basic, Standard, and Premium subscription tiers**.
+
+
+ 
 
 
