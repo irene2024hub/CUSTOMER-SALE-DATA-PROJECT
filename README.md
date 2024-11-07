@@ -222,11 +222,10 @@ data modelling and create interative dashboarding** are:
 
 
 
-            ## ****GENERAL DASHBOARD****
-              
-![image](https://github.com/user-attachments/assets/4211d7fc-3389-47cc-9936-0bd1c9c4d1f8)
+                    
 
-        
+## GENERAL DASHBOARD
+  ![image](https://github.com/user-attachments/assets/4211d7fc-3389-47cc-9936-0bd1c9c4d1f8)      
 
  ## SUBSCRIPTION PATTERN WITH THE HIGHEST TOTAL REVENUE (BASIC)
 
