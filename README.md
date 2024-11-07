@@ -2,11 +2,13 @@
 
 ## ABSTRACT
 
-**This project focuses on customer segmentation for a subscription-based service that offers three subscription types: Basic, Standard, and Premium. 
-By segmenting customers based on their subscription choices, usage patterns, demographics, and other key behavioral factors,
-this analysis aims to deliver actionable insights that can enhance customer engagement, retention, and profitability.**
+**Using Netflix Nigeria LTD as case study.**This project focuses on customer segmentation for a subscription-based service that offers three** 
+**subscription types: Basic, Standard, and Premium.** 
+**By segmenting customers based on their subscription choice, , usage patterns, demographics, and other key behavioral factors,**
+**this analysis aims to deliver actionable insights that can enhance customer engagement, retention, and profitability.**
 
 ## INTRODUCTION
+
 **In today’s competitive digital economy, customer segmentation is a critical strategy for subscription-based businesses aiming to understand, engage, 
 and retain their customers effectively. For services that offer tiered subscription models — typically Basic, Standard, and Premium — understanding
 the unique characteristics and preferences of each subscriber type is crucial to optimizing marketing, personalizing user experience, and increasing long-term profitability.**
@@ -84,7 +86,7 @@ and across subscription tiers.**
 
 **Explore ways to encourage upselling, cross-selling, and loyalty strategies that cater to each segment’s potential value.**
 
-6. #### Develop a Scalable Segmentation Framework ####
+6. #### Develop a Scalable Segmentation Framework
 
 **Create a scalable segmentation framework that can be periodically updated with new data.**
 
@@ -93,19 +95,20 @@ and across subscription tiers.**
 **By achieving these objectives, the project aims to provide actionable insights that enable the subscription service to drive customer-centric growth, improve retention rates, and maximize the lifetime value of each segment.**
 
 ## DATA MANIPULATION
- The methodology comprises the following key steps:
+ **The methodology comprises the following key steps:**
 
 ~. **Data Collection**
 
-~  **Gather Data**: **Collect relevant data from various sources, including customer demographics (age, gender, location), subscription details 
-(subscription type, start date, payment history), and behavioral data (usage frequency, average session duration, churn history).**
+~  **Gather Data**: **Collect relevant data from various sources, including customer demographics (age, gender, location), subscription details** 
+**(subscription type, start date, payment history), and behavioral data (usage frequency, average session duration, churn history)**
 
-~ **Data Sources**: **The dataset used in this analysis was received from an internal
-Data Sources from:**
+~ **Data Sources**: **The dataset used in this analysis was received from an internal**
+**Data Sources from:**
 
 1. **Customer Relationship Management (CRM) software**
-2. **Subscription management platform **
-3.**  Billing and invoicing systems**
+2. **Subscription management platform**
+
+3. **Billing and invoicing systems**
 4. **Customer database**
 5. **Sales and marketing automation tools**
    
@@ -168,12 +171,12 @@ membership and historical behaviors.**
 **Analysis tools Usedfor r analysis, data segmentation, visualization,** 
 data modelling and create interative dashboarding** are:
 
-* **MICROSOFT EXCEL
-* ** SQL SERVER
-*  **POWER BI  DESKTOP
+* **MICROSOFT EXCEL**
+* **SQL SERVER**
+*  **POWER BI  DESKTOP**
   
 
- *  
+ 
 ### MICROSOFT EXCEL PIVOT TABLES SUMMARY REPORT ###
 
 ![image](https://github.com/user-attachments/assets/e818e9d9-d2c2-479f-bfdb-4ca4e78d8aab)
@@ -263,4 +266,86 @@ data modelling and create interative dashboarding** are:
 ## 4TH QUARTHER RECORDED LOWEST TOTAL SALES REVENUE
 
 ![image](https://github.com/user-attachments/assets/d772803d-7cfb-416c-9fb1-ac33e8430733)
+
+
+**Based on the analysis of a subscription service project for a Netflix Nigeria-style service with Basic, Premium, and Standard plans, 
+here are the key insights and recommendations:**
+
+
+### INSIGHTS
+1. **REVENUE DISTRIBUTION BY REGION**
+
+**Total revenue across regions shows a fairly even distribution, with East generating the highest revenue at #16,958,763 and South 
+having the lowest at #16,817,972. This balanced distribution suggests strong market penetration across all regions, with 
+no specific region significantly underperforming.**
+
+
+
+2. **REVENUE BY SUBSCRIPTION TYPE**  
+
+**The Basic plan generates the highest revenue at #33,776,735, indicating that most subscribers prefer this more affordable option. In contrast, 
+Premium and Standard plans generate #16,899,064 and #16,864,376, respectively. This may suggest that customers are primarily cost-conscious 
+and may not perceive significant additional value in the higher-tier plans to justify the extra cost.**
+
+
+
+3. **SUBSCRIPTION AND CHRNS RATES**
+
+**With 18,612 active subscriptions and 15,175 canceled subscriptions, there’s a notable churn rate, indicating a high turnover and retention challenge.
+The high churn may reflect issues with customer satisfaction, competition, or perceived value, especially for the Basic plan, which has the largest 
+subscriber base and is often price-sensitive.**
+
+
+
+4. **SUBCRIPTION DURATION**
+
+
+**The average subscription duration of 365 days suggests that the typical customer remains subscribed for one year. The total duration of 12,344,065 days 
+across all regions also highlights stable retention for many users, yet the high churn rate shows room for improvement in customer loyalty and retention 
+efforts, particularly for entry-level subscribers.**
+
+
+
+5. **QUARTERLY REVENUE TRENDS**
+
+
+**The first quarter achieved the highest revenue at #20,221,790, while the fourth quarter recorded the lowest at #10,220,271. This suggests a seasonal
+trend, where customers are more engaged in the beginning of the year. The drop in the fourth quarter could indicate waning interest, competition from
+other services, or potential seasonal churn factors**.
+
+
+
+
+## RECOMMENDATIONS 
+
+1. **Increase Value Perception for Standard and Premium Plans**
+
+**To attract more customers to higher-tier subscriptions, consider adding more value to the Standard and Premium plans, such as exclusive content, ad-free
+viewing, or premium customer support. Communicate these added benefits effectively to encourage upgrades from Basic to higher tiers**.
+
+2. **RETENTION STRATEGY FOR HIGH_CHURN BASIC SUBSCRIBER**S
+
+**Implement targeted retention strategies for Basic plan subscribers, such as offering limited-time discounts for Standard upgrades, personalized 
+recommendations to increase engagement, or rewards for longer-term commitments. This can help reduce churn in the cost-sensitive segment**.
+
+3. ** SEASONAL PROMOTION AND RE-ENGAGEMENT CAMPAIGNS**
+
+**To boost fourth-quarter performance, launch targeted promotions or re-engagement campaigns during this period. Consider holiday-themed offers or 
+personalized content that appeals to customer interests and encourages continued subscription through the year-end.**
+
+4. **FOCUS ON CUSTOMER FEEDBACK AND SATISFACTION**
+
+**Conduct customer satisfaction surveys or collect feedback, particularly from canceled subscribers, to identify pain points. Use this data to 
+improve the overall service experience, enhance content offerings, and refine user engagement strategies**.
+
+5. **LEVERAGE REGIONAL INSIGHTS FOR CUSTOMIZED MARKETING** 
+
+**Given the even distribution of revenue across regions, consider region-specific marketing campaigns that resonate with local preferences and 
+cultural nuances. Customized marketing can help strengthen brand loyalty and engagement within each region**.
+
+6.**IMPLEMENT PREDICTIVE ANALYTICS FOR EARLY CHURN DETECTION**
+
+  ** se predictive analytics to identify cust**…
+
+
 
