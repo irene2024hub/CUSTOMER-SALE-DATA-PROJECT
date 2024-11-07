@@ -139,10 +139,10 @@ membership and historical behaviors.**
 
 ~ **Upgrade/Downgrade Prediction: Use similar modeling techniques to predict customers' likelihood of upgrading or downgrading their subscriptions.**
 
-~. Validation and Refinement
+~. **Validation and Refinement**
 
-** Model Evaluation: Validate the segmentation and predictive models using appropriate metrics (e.g., accuracy, precision, recall) on a holdout dataset.**
-**Microsoft excel and Power bi :Used for analysis, data segmentation, visualization, 
+**Model Evaluation: Validate the segmentation and predictive models using appropriate metrics (e.g., accuracy, precision, recall) on a holdout dataset.**
+**Microsoft excel and Power bi :Used for analysis, data segmentation, visualization,** 
 data modelling and create interative dashboarding
 
 ## ANALYSIS QUESTION ##
@@ -164,6 +164,13 @@ data modelling and create interative dashboarding
 This project adopts a systematic data analysis approach to segment customers of a subscription service offering Basic, 
 Standard, and Premium plans.
 
+
+## Data Analysis Tools:
+
+ * **Microsoft Excel
+ *  **SQL SERVER
+ *  **POWER PI DESKTOP
+ *  
 ### MICROSOFT EXCEL PIVOT TABLES SUMMARY REPORT ###
 
 ![image](https://github.com/user-attachments/assets/e818e9d9-d2c2-479f-bfdb-4ca4e78d8aab)
