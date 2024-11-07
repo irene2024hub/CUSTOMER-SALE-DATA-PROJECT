@@ -179,7 +179,7 @@ data modelling and create interative dashboarding** are:
 
  *  **Microsoft Sql ServerSMSS0 [Download here](https://wwww.Microsoft.com).
     
- *  **POWER PI DESKTOP  [Download here](https://wwww.Microsoft.com
+ *  **POWER PI DESKTOP  [Download here](https://wwww.Microsoft.com)
 * **MICROSOFT EXCEL**
 * **SQL SERVER**
 *  **POWER BI  DESKTOP**
